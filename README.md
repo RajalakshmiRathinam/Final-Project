@@ -7,7 +7,7 @@
 You are opening a new Store at a particular location. Now, Given the Store Location, Area, Size and other params. Predict the overall revenue/Sale generation of the Store.
 
 ### Libraries used
-- Numpy #linear algebra
+- Numpy #handling numerical operations 
 - Pandas # data processing, CSV file I/O 
 - Matplotlib #data plotting
 - Streamlit # Data visualization
@@ -56,7 +56,8 @@ You are opening a new Store at a particular location. Now, Given the Store Locat
 - AdaBoost Regression Model
 - GradientBoosting Regression Model
 
-  
+ ## Conclusion
+ The app successfully combines machine learning predictions, data exploration, and insightful visualizations in an accessible and user-friendly manner. It serves as a versatile tool for both data exploration and predictive analysis in the context of weekly sales data.
   
 
 	
